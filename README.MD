@@ -35,4 +35,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
+##Examples
+
+![Example of play](2019-08-12 16.02.58.gif)
+
 ## License
