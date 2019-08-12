@@ -38,5 +38,6 @@ Please make sure to update tests as appropriate.
 ## Examples
 
 ![Example of play](2019-08-12 16.02.58.gif)
+<a href="https://www.dropbox.com/s/bvucfyfihh3uhxf/2019-08-12%2016.02.58.gif?dl=0"><a/>
 
 ## License
