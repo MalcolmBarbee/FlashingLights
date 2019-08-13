@@ -5,7 +5,6 @@ A game where the objective is to clear the game board of all the colored lights.
 ## Installation
 
 NPM START
-YARN START
 
 ## Usage
 
@@ -20,14 +19,6 @@ static defaultProps = {
   ncols: 5,
   chanceLightStartsOn: 0.25
 };
-  constructor(props) {
-    super(props);
-//set inital state
-    this.state = {
-      hasWon: false,
-      board: this.createBoard()
-    };
-  }
 ```
 
 ## Contributing
@@ -35,9 +26,10 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
+## Rules
+
+Clear all of the colored lights from the game board. Once all lights are cleared, the game is complete!
+
 ## Examples
 
-![Example of play](2019-08-12 16.02.58.gif)
-<a href="https://www.dropbox.com/s/bvucfyfihh3uhxf/2019-08-12%2016.02.58.gif?dl=0"><a/>
-
-## License
+![2019-08-12 16 02 58 (1)](https://user-images.githubusercontent.com/43822080/62937007-42361f80-bd99-11e9-9230-e95ae83e2c9a.gif)
