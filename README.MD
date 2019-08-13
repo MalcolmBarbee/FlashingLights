@@ -4,6 +4,7 @@ A game where the objective is to clear the game board of all the colored lights.
 
 ## Installation
 
+NPM INSTALL
 NPM START
 
 ## Usage
